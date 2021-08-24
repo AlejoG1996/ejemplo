@@ -2,7 +2,7 @@
 
 namespace ejemplo.Common.Models
 {
-    public class clase
+    public class Todo
     {
         public DateTime CreateTime { get; set; }
 

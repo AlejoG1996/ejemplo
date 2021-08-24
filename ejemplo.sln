@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo.Common", "ejemplo.Common\ejemplo.Common.csproj", "{059AE96D-8A7F-4F7A-AE46-7634F219AA5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplo.Common", "ejemplo.Common\ejemplo.Common.csproj", "{059AE96D-8A7F-4F7A-AE46-7634F219AA5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo.Function", "ejemplo.Function\ejemplo.Function.csproj", "{175AB973-E197-4FA1-9896-21AA1B2DC49C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplo.Function", "ejemplo.Function\ejemplo.Function.csproj", "{175AB973-E197-4FA1-9896-21AA1B2DC49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo.Test", "ejemplo.Test\ejemplo.Test.csproj", "{473EF96E-6463-49C7-B729-5F95F85687C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplo.Test", "ejemplo.Test\ejemplo.Test.csproj", "{473EF96E-6463-49C7-B729-5F95F85687C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
